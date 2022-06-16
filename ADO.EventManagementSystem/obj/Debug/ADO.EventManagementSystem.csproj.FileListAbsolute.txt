@@ -1,0 +1,8 @@
+F:\vs-Project\ADO.EventManagementSystem\ADO.EventManagementSystem\bin\Debug\ADO.EventManagementSystem.exe.config
+F:\vs-Project\ADO.EventManagementSystem\ADO.EventManagementSystem\bin\Debug\ADO.EventManagementSystem.exe
+F:\vs-Project\ADO.EventManagementSystem\ADO.EventManagementSystem\bin\Debug\ADO.EventManagementSystem.pdb
+F:\vs-Project\ADO.EventManagementSystem\ADO.EventManagementSystem\obj\Debug\ADO.EventManagementSystem.csproj.AssemblyReference.cache
+F:\vs-Project\ADO.EventManagementSystem\ADO.EventManagementSystem\obj\Debug\ADO.EventManagementSystem.csproj.SuggestedBindingRedirects.cache
+F:\vs-Project\ADO.EventManagementSystem\ADO.EventManagementSystem\obj\Debug\ADO.EventManagementSystem.csproj.CoreCompileInputs.cache
+F:\vs-Project\ADO.EventManagementSystem\ADO.EventManagementSystem\obj\Debug\ADO.EventManagementSystem.exe
+F:\vs-Project\ADO.EventManagementSystem\ADO.EventManagementSystem\obj\Debug\ADO.EventManagementSystem.pdb
